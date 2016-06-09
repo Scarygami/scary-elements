@@ -14,7 +14,8 @@
   "dependencies": {
     "scary-cookie": "Scarygami/scary-cookie#^1.0.0",
     "scary-cookie-consent": "Scarygami/scary-cookie-consent#^1.0.0",
-    "discovery-api-elements": "Scarygami/discovery-api-elements#^0.5.0"
+    "discovery-api-elements": "Scarygami/discovery-api-elements#^0.5.0",
+    "discovery-api-docs": "Scarygami/discovery-api-docs#^0.5.0"
   },
   "homepage": "https://github.com/Scarygami/scary-elements",
   "authors": [
